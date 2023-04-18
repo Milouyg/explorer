@@ -2,43 +2,43 @@
     "games": [
         {
             "title": "Valorant",
-            "platform": "Pc"
+            "platform": "PC"
         },
         {
             "title": "Dark Souls",
-            "platform": "Pc"
+            "platform": "PC"
         },
         {
             "title": "Minecraft",
-            "platform": "Pc"
+            "platform": "PC"
         },
         {
             "title": "Hogwarts Legacy",
-            "platform": "Ps5"
+            "platform": "PS5"
         },
         {
             "title": "Spiderman",
-            "platform": "Ps5"
+            "platform": "PS5"
         },
         {
             "title": "Horizon Zero Dawn",
-            "platform": "Ps5"
+            "platform": "PS5"
         },
         {
             "title": "Bloodborn",
-            "platform": "Ps5"
+            "platform": "PS5"
         },
         {
             "title": "Legend of Zelda",
-            "platform": "Nintendo Switch"
+            "platform": "NINTENDOSWITCH"
         },
         {
             "title": "Super Mario Maker 2",
-            "platform": "Nintendo Switch"
+            "platform": "NINTENDOSWITCH"
         },
         {
             "title": "Super Smash Bros",
-            "platform": "Nintendo Switch"
+            "platform": "NINTENDOSWITCH"
         }
     ]
 }
